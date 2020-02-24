@@ -1,0 +1,2 @@
+Befor Moving on to version 0.3, first a very basic test must be done with relays and a basic code. The test must perform 
+to expectations as such; the Driver must relax after the product has reduced engine power.

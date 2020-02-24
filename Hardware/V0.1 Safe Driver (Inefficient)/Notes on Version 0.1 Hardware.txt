@@ -1,0 +1,3 @@
+The hardware used on prototype V0.1 is very inefficient as it uses relays to control 12v hardware. 
+The Casing is big and bulky making it hard to drive with or connect to the obd port.
+Future idea for V0.2 includes using transistores only as a method od reducing engine power by disconnecting injectors on vehicle.

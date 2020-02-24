@@ -1,0 +1,53 @@
+Relaxed (Driving)-Claudio age:20 Hight:6'3" Weight:220 lbs
+
+Min-Max
+72-130
+(AVG)
+
+Min-Max
+73-87
+(Bumpy Music)
+
+Min-Max
+72-82
+(Calm Music)
+
+Min-Max
+100-116
+(Sing Along)
+
+Min-Max
+Spike 105-130
+(Turning)
+
+Relaxed (Not-Driving)-Claudio
+
+Min-Max
+68-119
+(AVG)
+
+Min-Max
+68-71
+(Bumpy Music)
+
+Min-Max
+69-101
+(Calm Music)(Yawned)
+
+Min-Max
+100-119
+(Sing Along)
+
+Min-Max
+75-89
+(Conversation)
+
+Claudios Overall BPM Average
+
+Min-Max
+80-104
+
+Claudios Overall Min & Max
+72-130
+
+Summary:While listening to loud music without singing Claudio would be Calm, Unlike listening to calm music, His BPM would rise. Turning spiked his BPM. 

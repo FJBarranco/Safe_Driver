@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "V0.1 Safe Driver", "V0.1 Safe Driver\V0.1 Safe Driver.vcxproj", "{C5F80730-F44F-4478-BDAE-6634EFC2CA88}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Getting_BPM_to_Monitor", "C:\Users\Fernando\Documents\Arduino\libraries\PulseSensor_Playground-1.5.1\examples\Getting_BPM_to_Monitor\Getting_BPM_to_Monitor.vcxproj", "{8D33F6A7-4DC5-4F6F-AAF4-620E612B3DED}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example1_Basic_Readings", "C:\Users\ferna\Documents\Arduino\libraries\SparkFun_MAX3010x_Sensor_Library-master\examples\Example1_Basic_Readings\Example1_Basic_Readings.vcxproj", "{98349C2D-91D3-437A-B701-D839FEA31BEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.ActiveCfg = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.Build.0 = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.ActiveCfg = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.Build.0 = Release|Win32
+		{8D33F6A7-4DC5-4F6F-AAF4-620E612B3DED}.Debug|x86.ActiveCfg = Debug|Win32
+		{8D33F6A7-4DC5-4F6F-AAF4-620E612B3DED}.Debug|x86.Build.0 = Debug|Win32
+		{8D33F6A7-4DC5-4F6F-AAF4-620E612B3DED}.Release|x86.ActiveCfg = Release|Win32
+		{8D33F6A7-4DC5-4F6F-AAF4-620E612B3DED}.Release|x86.Build.0 = Release|Win32
+		{98349C2D-91D3-437A-B701-D839FEA31BEF}.Debug|x86.ActiveCfg = Debug|Win32
+		{98349C2D-91D3-437A-B701-D839FEA31BEF}.Debug|x86.Build.0 = Debug|Win32
+		{98349C2D-91D3-437A-B701-D839FEA31BEF}.Release|x86.ActiveCfg = Release|Win32
+		{98349C2D-91D3-437A-B701-D839FEA31BEF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4320CDE6-9DE7-439D-80C7-CEE3815FFE62}
+	EndGlobalSection
+EndGlobal

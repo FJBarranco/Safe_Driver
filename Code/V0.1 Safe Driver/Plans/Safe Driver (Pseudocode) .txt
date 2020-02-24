@@ -1,0 +1,64 @@
+//Define Analog Pins
+Define A0 = LightPulse;
+Define A1 = LightRecieved;
+
+//Define Digital Pins
+Define D1 = Buzzer ;
+
+//Define Variables
+int LightPulse;
+int LightRecieved;
+int HeartBeat;
+int Timer;
+
+// Start Setup
+
+void Setup
+{
+
+// Set Analog Pins
+PinMode (LightPulse,OUTPUT) //Outgoing Signal;
+PinMode (LightRecieved, INPUT) //Incoming Signal;
+
+// Set Digital Pins
+PinMode (Buzzer,Output);
+digitalWrite (Buzzer,High);
+
+}
+
+void Loop
+{
+//100 % Engine Power (Normal)
+
+//Start Reading Heart Rate Sensor
+
+//If Heart Rate Sensor = 0
+
+//Initialize Timer Of 5 Seconds and Buzzer Will Go Off Every Second
+
+//If Heart Rate Sensor = > 0 && < 100
+
+//100 % Engine Power (Normal)
+
+//If Timer = 0
+
+//Engine Power Reduced to 50 %
+
+//If Heart Rate Sensor = > 0 && < 100
+
+//100 % Engine Power (Normal)
+
+//If Heart Rate > 100
+
+//Initialize Timer Of 3 Seconds and Buzzer Will Go Off Every Second
+
+//If Heart Rate Sensor = > 100
+
+//Reduce Engine Power to 25 %
+
+//If Heart Rate Sensor = > 0 && < 100
+
+//100 % Engine Power (Normal)
+
+//delay 500 Milliseconds
+}
